@@ -1,0 +1,28 @@
+---------- Date: 2015-11-21 03:07:03 ~ IP : ::1 ----------
+REQUEST URI : /opencart/so_shoppystore/admin/index.php?route=module/so_listing_tabs&token=Nzog9aoitL8dHpB6yGRJWyWNfA1rWhS4
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-11-21 04:06:15 ~ IP : ::1 ----------
+REQUEST URI : /opencart/so_shoppystore/admin/index.php?route=design/layout/edit&token=Nzog9aoitL8dHpB6yGRJWyWNfA1rWhS4&layout_id=1
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+

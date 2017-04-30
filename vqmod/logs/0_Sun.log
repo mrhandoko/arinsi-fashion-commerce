@@ -1,0 +1,14 @@
+---------- Date: 2015-10-25 02:34:30 ~ IP : ::1 ----------
+REQUEST URI : /ytc_templates/opencart/so_blank/admin/index.php?route=setting/setting&token=9fa0e6b89c1442dbba024c26a52b1902
+MOD DETAILS:
+   modFile   : F:\xampp\htdocs\ytc_templates\opencart\so_blank\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+

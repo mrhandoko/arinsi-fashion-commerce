@@ -1,0 +1,321 @@
+---------- Date: 2015-12-21 05:36:29 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): </footer>
+
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/simple_blog_catalog.xml
+   id        : VQMOD CORE FOR OPENCART - DO NOT REMOVE
+   version   : 1.4.x and 1.5.x
+   vqmver    : 2.4.0
+   author    : Opcrat
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php echo $special; ?>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 07:58:44 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/layout2/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): </footer>
+
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/simple_blog_catalog.xml
+   id        : VQMOD CORE FOR OPENCART - DO NOT REMOVE
+   version   : 1.4.x and 1.5.x
+   vqmver    : 2.4.0
+   author    : Opcrat
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php echo $special; ?>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 08:09:12 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/layout3/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): </footer>
+
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/simple_blog_catalog.xml
+   id        : VQMOD CORE FOR OPENCART - DO NOT REMOVE
+   version   : 1.4.x and 1.5.x
+   vqmver    : 2.4.0
+   author    : Opcrat
+
+File Name    : catalog/view/theme/*/template/common/footer.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <?php echo $special; ?>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 09:30:33 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/index.php?route=common/home
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 09:39:59 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/index.php?route=common/home
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 09:46:55 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/index.php?route=common/home
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 09:52:28 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/layout3/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:21:33 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/soconfig_theme.xml
+   id        : cosyone theme
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Karl Pers - Openthemer.com
+
+File Name    : catalog/controller/module/newsletters.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->load->language('module/newsletters');
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:22:58 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/soconfig_theme.xml
+   id        : cosyone theme
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Karl Pers - Openthemer.com
+
+File Name    : catalog/controller/module/newsletters.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->load->language('module/newsletters');
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:23:01 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/soconfig_theme.xml
+   id        : cosyone theme
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Karl Pers - Openthemer.com
+
+File Name    : catalog/controller/module/newsletters.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->load->language('module/newsletters');
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:23:33 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:24:01 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/soconfig_theme.xml
+   id        : cosyone theme
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Karl Pers - Openthemer.com
+
+File Name    : catalog/controller/module/newsletters.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->load->language('module/newsletters');
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:24:21 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/soconfig_theme.xml
+   id        : cosyone theme
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Karl Pers - Openthemer.com
+
+File Name    : catalog/controller/module/newsletters.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->load->language('module/newsletters');
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:24:36 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:26:13 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/soconfig_theme.xml
+   id        : cosyone theme
+   version   : 1.0
+   vqmver    : 2.X
+   author    : Karl Pers - Openthemer.com
+
+File Name    : catalog/controller/module/newsletters.php(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): $this->load->language('module/newsletters');
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:28:05 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:30:46 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-21 10:36:35 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /ytc_templates/opencart/so_shoppystore/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_shoppystore\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
